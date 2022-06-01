@@ -1,18 +1,5 @@
 <html>
-<head> 
-<title> Lab 2</title> 
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-table {
-	border-collapse: collapse;
-	margin-left:10px;
-	margin-top:10px;
-	margin-bottom:10px;
-}
-</style>  
-</head>
+
 <body>
 
 <h1> Lab 2</h1>
