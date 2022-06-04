@@ -1,16 +1,5 @@
 <html>
 <head> <title> Lab 4</title> 
-<style>
-table, th, td {
-  border: 0px solid black;
-}
-table {
-	border-collapse: collapse;
-	margin-left:10px;
-	margin-top:10px;
-	margin-bottom:10px;
-}
-</style>  
 </head>
 
 <body>
