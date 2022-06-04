@@ -1,5 +1,3 @@
-
-
 import java.util.concurrent.TimeUnit;
 
 class Generator
@@ -52,12 +50,6 @@ public class Main {
         Generator g = new Generator();
         String [] words = g.generate(n,p,alphabet);
 
-//        System.out.println("Generated words:");
-//        for(int i=0;i<n;i++)
-//        {
-//            System.out.println(words[i]);
-//        }
-//        System.out.println();
 
         boolean [][] adjWords = new boolean[n][n];
         for(int i=0;i<n-1;i++)

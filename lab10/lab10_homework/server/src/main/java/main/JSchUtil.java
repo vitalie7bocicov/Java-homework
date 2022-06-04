@@ -17,7 +17,7 @@ public class JSchUtil {
     private ChannelSftp setupJsch() throws JSchException {
         JSch jsch = new JSch();
         jsch.setKnownHosts("/Users/vital/.ssh/known_hosts");
-        Session jschSession = jsch.getSession("vitalie.bocicov", "students.info.uaic.ro", 22);
+        Session jschSession = jsch.getSession("*********", "students.info.uaic.ro", 22);
         jschSession.setPassword(password);
         jschSession.connect();
         return (ChannelSftp) jschSession.openChannel("sftp");
