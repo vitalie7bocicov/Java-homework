@@ -1,5 +1,4 @@
 <html>
-<head> <title> Lab 11</title> </head>
 <body>
 
 <a name="lab11"></a>
