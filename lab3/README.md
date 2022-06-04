@@ -1,17 +1,5 @@
 <html>
 <head> 
-<title> Lab 3</title> 
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-table {
-	border-collapse: collapse;
-	margin-left:10px;
-	margin-top:10px;
-	margin-bottom:10px;
-}
-</style>  
   
 </head>
 <body>
