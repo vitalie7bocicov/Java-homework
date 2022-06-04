@@ -1,18 +1,5 @@
 <html>
-<head> 
-<title> Lab 2</title> 
-<style>
-table, th, td {
-  border: 1px solid black;
-}
-table {
-	border-collapse: collapse;
-	margin-left:10px;
-	margin-top:10px;
-	margin-bottom:10px;
-}
-</style>  
-</head>
+
 <body>
 
 <h1> Lab 2</h1>
@@ -81,6 +68,12 @@ The course room may have an additional property indicating if there is a video p
 <li>Write <a href="http://www.oracle.com/technetwork/java/javase/tech/index-137868.html">doc comments</a> in your source code 
 and generate the class documentation using <a href="https://docs.oracle.com/javase/9/javadoc/toc.htm">javadoc</a>.
 </ul>
+
+# <<<<<<< HEAD
+
+<hr>
+
+> > > > > > > 3344bf71c544f0d02876bdd4f88f6a965c6b37c9
 
 </body>
 </html>
