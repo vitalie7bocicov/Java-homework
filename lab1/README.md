@@ -2,7 +2,6 @@
 <body>
 
 <h1> Lab 1</h1>
-
 <p>
 
 <b>Introduction to <a href="https://docs.oracle.com/javase/tutorial/">Java Programming</a></b> <br/>
