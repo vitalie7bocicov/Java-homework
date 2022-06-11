@@ -2,7 +2,6 @@
 <body>
 
 <a name="lab12"></a>
-
 <h1> Lab 12</h1>
 
 <p>
