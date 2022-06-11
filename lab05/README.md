@@ -3,7 +3,6 @@
 <a name="laborator3"></a>
 
 <h1> Lab 5</h1>
-
 <p>
 <b>Bibliography Management System</b><br>
 Write an application that can manage a catalog of resources (bibliographic references), such as books, articles, etc. <br/>
