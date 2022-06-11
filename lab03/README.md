@@ -6,7 +6,6 @@
 <a name="laborator3"></a>
 
 <h1> Lab 3</h1>
-
 <p>
 <b>The Network Routing Problem</b><br>
 
