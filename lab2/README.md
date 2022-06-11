@@ -1,7 +1,6 @@
 <html>
 
 <body>
-
 <h1> Lab 2</h1>
 
 <b>The Room Assignment Problem</b> <br/>
